@@ -38,7 +38,6 @@ app.post('/delete/:index', (req, res) => {
 app.listen(port, () => {
   console.log(`Server running on http://localhost:${port}`);
 });
-<<<<<<< HEAD
-=======
+
 // Inderjeet
->>>>>>> bdabd59 (reinitialised git)
+
